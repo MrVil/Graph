@@ -4,7 +4,7 @@ import graph.Arc;
 import graph.DoubleLabel;
 import graph.Graph;
 import graph.IDirectedGraph;
-import graph.IUndirectedGraph;
+//import graph.IUndirectedGraph;
 import graph.IntegerLabel;
 import graph.Node;
 import graph.StringLabel;
