@@ -63,6 +63,43 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="UndirectedGraph.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graph/UndirectedGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1039#1040#0" expanded="true" />
+                <element signature="e#1083#1084#0" expanded="true" />
+                <element signature="e#1114#1115#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09254499">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> d479b5ee96666b10e7f3416990d84e0be7667b17
       <file leaf-file-name="Arc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/graph/Arc.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -713,14 +750,22 @@
       <created>1457515422479</created>
       <option name="number" value="Default" />
       <updated>1457515422479</updated>
+<<<<<<< HEAD
       <workItem from="1457515426592" duration="4546000" />
       <workItem from="1457520382915" duration="35000" />
       <workItem from="1457520467142" duration="118000" />
+=======
+      <workItem from="1457515426592" duration="5078000" />
+>>>>>>> d479b5ee96666b10e7f3416990d84e0be7667b17
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4699000" />
+=======
+    <option name="totallyTimeSpent" value="5078000" />
+>>>>>>> d479b5ee96666b10e7f3416990d84e0be7667b17
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -900,6 +945,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/Arc.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
@@ -934,6 +980,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9637306">
           <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+=======
+        <state vertical-scroll-proportion="0.09254499">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+>>>>>>> d479b5ee96666b10e7f3416990d84e0be7667b17
           <folding />
         </state>
       </provider>
