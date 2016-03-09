@@ -8,8 +8,8 @@ import java.util.List;
  */
 public class Graph implements IDirectedGraph {
 
-    List<Arc> arcs;
-    List<Node> nodes;
+    List<Arc> arcs = new ArrayList<Arc>();
+    List<Node> nodes = new ArrayList<Node>();
 
     @Override
     public boolean hasArc(Node _n1, Node _n2) {
