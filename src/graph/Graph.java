@@ -10,6 +10,7 @@ public class Graph implements IDirectedGraph {
 
     List<Arc> arcs = new ArrayList<Arc>();
     List<Node> nodes = new ArrayList<Node>();
+    Label label = new StringLabel("Graph");
 
     @Override
     public boolean hasArc(Node _n1, Node _n2) {
@@ -64,5 +65,16 @@ public class Graph implements IDirectedGraph {
                 adj.add(arc.getDestination());
         }
         return adj;
+    }
+    
+    @Override
+    public String toString() {
+    	String res = "";
+    	res += this.label + "\n";
+    	for(Node node : nodes) {
+    		res += "| noeud=" + node + " : " + getArc(node);
+    		res += "\n";
+    	}
+    	return res;
     }
 }
