@@ -65,4 +65,15 @@ public class Graph implements IDirectedGraph {
         }
         return adj;
     }
+
+    @Override
+    public String toString() {
+    	String res = "";
+    	res += this.label + "\n";
+    	for(Node node : nodes) {
+    		res += "| noeud=" + node + " : " + getArc(node);
+    		res += "\n";
+    	}
+    	return res;
+    }
 }
