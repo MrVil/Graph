@@ -10,6 +10,7 @@ public class Graph implements IDirectedGraph {
 
     private List<Arc> arcs = new ArrayList<Arc>();
     private List<Node> nodes = new ArrayList<Node>();
+    private Label label = new StringLabel("Graph");
 
     @Override
     public boolean hasArc(Node _n1, Node _n2) {
