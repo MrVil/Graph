@@ -67,8 +67,6 @@ public class Graph implements IDirectedGraph {
         return adj;
     }
     
-    //bite
-    
     @Override
     public String toString() {
     	String res = "";
